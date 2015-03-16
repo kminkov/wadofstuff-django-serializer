@@ -18,8 +18,8 @@ setup(
     long_description=LONG_DESCRIPTION,
     author='Matthew Flanagan',
     author_email='mattimustang@gmail.com',
-    url='http://code.google.com/p/wadofstuff/',
-    download_url='http://wadofstuff.googlecode.com/files/wadofstuff-django-serializers-1.1.0.tar.gz',
+    url='https://github.com/mattimustang/wadofstuff',
+    download_url='https://github.com/pendolf/wadofstuff-django-serializer/archive/master.zip',
     packages=(
         'wadofstuff',
         'wadofstuff.django',
