@@ -19,7 +19,7 @@ setup(
     author='Matthew Flanagan',
     author_email='mattimustang@gmail.com',
     url='https://github.com/mattimustang/wadofstuff',
-    download_url='https://github.com/pendolf/wadofstuff-django-serializer/archive/master.zip',
+    download_url='https://github.com/kminkov/wadofstuff-django-serializer/archive/master.zip',
     packages=(
         'wadofstuff',
         'wadofstuff.django',
